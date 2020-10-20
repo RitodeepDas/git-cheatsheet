@@ -168,7 +168,7 @@ now, when you add the files it ignores node_modules directory in your project.
 
     git merge upstream/master
     
- 
+     <-- PR means of pulling changes from another branch or fork into your branch and merging the changes with your existing code. It useful tools for code review and change management.-->
 
 ```
 
